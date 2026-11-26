@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DigitalMuseum.Api/DigitalMuseum.Api.csproj" Id="9520c96f-5dc7-47e9-9930-6d4582d1910b" />
+  <Project Path="DigitalMuseum.Data/DigitalMuseum.Data.csproj" Id="7582c00b-edd4-419a-97f4-f4168936c087" />
+  <Project Path="DigitalMuseum.Web/DigitalMuseum.Web.csproj" Id="b659a9df-96a0-4c0d-a08e-538218275efe" />
+</Solution>
